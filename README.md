@@ -1,16 +1,25 @@
-## Hi there 👋
+## Hi, I'm Muhammad Arif 
 
-<!--
-**muharifs/muharifs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full-stack developer · React + Python/Django REST Framework · Open to remote work (UTC+7, Indonesia)**
 
-Here are some ideas to get you started:
+I build complete web applications end to end: data model, REST API, and the React UI on top. Most recently I worked on **Saham Folk**, a React/Vite + Django REST Framework app where I built a Midtrans checkout for courses and subscriptions, generated PDF invoices, and helped deploy the backend.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech I work with
+- **Frontend:** React, Vite, TypeScript, JavaScript, HTML/CSS
+- **Backend:** Python, Django, Django REST Framework · Node.js, NestJS
+- **Data:** PostgreSQL, MySQL
+- **Other:** REST APIs, JWT auth, Midtrans payment gateway, Git, Linux, deployment
+
+### Featured projects
+| Project | What it shows | Stack |
+|---|---|---|
+| [Saham Folk (case study)](https://github.com/muharifs/saham-folk-case-study) | Payments, invoices, API integration, deployment on a real team project | React · Vite · DRF · Midtrans |
+| [blog_project](https://github.com/muharifs/blog_project) | REST API with Django REST Framework: CRUD, slugs, pagination, image upload | Django · DRF · MySQL |
+| [myblogpanel](https://github.com/muharifs/myblogpanel) | Full-stack blog admin with JWT auth, protected routes, categories & posts | React · TypeScript · NestJS · PostgreSQL |
+| [website-nasgor-nikmatbarokah](https://github.com/muharifs/website-nasgor-nikmatbarokah) | Responsive landing page for a local food business | HTML · CSS · JavaScript |
+
+### Contact
+- LinkedIn: [linkedin.com/in/muhammad-arif-59221531a](https://www.linkedin.com/in/muhammad-arif-59221531a/)
+- Email: muh.arifs1505@gmail.com
+
+*Currently looking for a remote Junior Full-Stack or Python/Django role.*
